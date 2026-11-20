@@ -12,6 +12,11 @@
 
 ---
 
+- **GitHub:** [@Icecreammy](https://github.com/Icecreammy)  
+- **Telegram:** [@alex_vorobev1](https://t.me/alex_vorobev1)  
+- **Email:** alecseui20052005@gmail.com  
+- **Языки:** Python, SQL
+
 ### Чем занимаюсь
 
 Разрабатываю NLP-сервисы и ассистентов для работы с базами знаний.
